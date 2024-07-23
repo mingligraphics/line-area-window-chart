@@ -1,0 +1,9 @@
+{
+	"capi": true,
+	"https": false,
+	"fallbackImage": "",
+	"framework": "svelte",
+	"layout": "bleed",
+	"slug": "demographic-window",
+	"uuid": "fac457ab-beda-4d5d-b558-c25573d21619"
+}
